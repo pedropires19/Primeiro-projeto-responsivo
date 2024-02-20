@@ -78,11 +78,11 @@ p {
 }
 
 .button1:hover {
-    opacity: .6;
+    opacity: 0.6;
 }
 
 .button1:active {
-    opacity: .9;
+    opacity: 0.9;
 }
 
 .button2:hover {
